@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao cantinho, estou iniciando mas em breve trarei novidades! 😁
+## Bem-vindo(a) ao meu cantinho! 😁
 
  <div>
    <a href="https://github.com/mathLheiro">
