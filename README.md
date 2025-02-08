@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu cantinho! 😁
+## Welcome stranger! 😁
 
  <div>
    <a href="https://github.com/mathLheiro">
@@ -15,7 +15,7 @@
  
 <br>
  
-### Minhas redes sociais, até o momento!
+### My social media's, at moment!
  
 <div> 
   <a href="https://www.instagram.com/matheuscavalheiro25/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
